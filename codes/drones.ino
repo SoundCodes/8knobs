@@ -46,7 +46,7 @@ void setup(){
   aSin8.setFreq(100);
 
 // set volume change frequencies
-  kVol1.setFreq(4.43f); // more of a pulse
+  kVol1.setFreq(0.43f); // more of a pulse // change for pulsating while mute
   kVol2.setFreq(0.0245f);
   kVol3.setFreq(0.019f);
   kVol4.setFreq(0.07f);
