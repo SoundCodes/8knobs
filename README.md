@@ -1,5 +1,6 @@
 # 8knobs
 ### Introducing 8knobs
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/3tVFqUqmMqI/0.jpg)](https://www.youtube.com/watch?v=3tVFqUqmMqI "8knobs")
 
 ###### // Synth // Midi controller // educational module 
 
